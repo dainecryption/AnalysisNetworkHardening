@@ -16,7 +16,7 @@ After inspecting the organization’s network, my team discovered four major vul
 
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
-I wrote a [security risk assessment[() to analyze the incident and explain what methods can be used to further secure the network.
+I wrote a [security risk assessment report](https://github.com/dainecryption/AnalysisNetworkHardening/blob/main/Security%20Risk%20Assessment%20Report.pdf) to analyze the incident and explain what methods can be used to further secure the network.
 <br />
 
 
